@@ -13,7 +13,7 @@
   
 ## What proggraming languages do I use?
 - Python
-- JavaScript
 - GoLang
 - Java
+- Kotlin
 - C#
